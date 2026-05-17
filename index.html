@@ -4,15 +4,50 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Product Catalog</title>
-     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header>
-        <h1>Our Catalog</h1>
-    </header>
-    <main id="catalog-container">
-        <!-- Products will be generated here -->
+    <nav class="navbar">
+        <div class="logo" id="site-logo">Cargando...</div>
+        <button class="menu-toggle" id="menu-toggle" aria-label="Abrir menú">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <div class="nav-links">
+            <a href="#nosotros">Nosotros</a>
+            <a href="#contacto">Contacto</a>
+        </div>
+    </nav>
+    <main>
+        <h2 class="section-title">Nuestro Catálogo</h2>
+        <div class="search-container">
+            <input type="text" id="product-search" placeholder="Buscar productos...">
+        </div>
+        <div id="category-filters" class="category-filters">
+            <!-- Categorías generadas dinámicamente -->
+        </div>
+        <div id="catalog-container" class="product-grid">
+            <!-- Products will be generated here -->
+        </div>
+        <div id="pagination-container" style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;">
+            <button id="load-more" class="filter-btn" style="display: none;">Cargar más productos</button>
+        </div>
     </main>
+
+    <div id="product-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modal-body">
+                <!-- Contenido dinámico -->
+            </div>
+        </div>
+    </div>
+
+    <footer id="main-footer">
+        <p id="footer-text">Cargando información...</p>
+    </footer>
     <script src="script.js"></script>
 </body>
 </html>

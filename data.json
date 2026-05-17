@@ -1,0 +1,344 @@
+{
+  "config": {
+    "logo_nombre": "Beauty Bloom",
+    "footer_texto": "© 2026 Beauty Bloom - Realzando tu esencia",
+    "nosotros_titulo": "Nuestra Misión",
+    "nosotros_texto": "Somos apasionados por el cuidado personal. Seleccionamos cada producto para asegurar la mejor calidad para tu piel y bienestar.",
+    "nosotros_imagen": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=800",
+    "contacto_ubicacion": "CDMX, México",
+    "contacto_whatsapp": "+52 1 55 1234 5678",
+    "contacto_whatsapp_link": "5215512345678",
+    "contacto_email": "hola@beautybloom.com"
+  },
+  "products": [
+    {
+      "id": "prod_01",
+      "name": "Sérum Facial Iluminador",
+      "description": "Potente fórmula con Vitamina C para una piel radiante y uniforme. Ideal para todo tipo de piel.",
+      "price": "$450.00",
+      "category": "Skin Care",
+      "images": [
+        "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=500",
+        "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&q=80&w=500"
+      ]
+    },
+    {
+      "id": "prod_02",
+      "name": "Labial Matte Velvet",
+      "description": "Acabado mate de larga duración que no reseca tus labios. Textura suave como el terciopelo.",
+      "price": "$280.00",
+      "category": "Maquillaje",
+      "images": [
+        "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?auto=format&fit=crop&q=80&w=500",
+        "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&q=80&w=500"
+      ]
+    },
+    {
+      "id": "prod_03",
+      "name": "Crema Hidratante Bio",
+      "description": "Hidratación profunda con ingredientes 100% orgánicos y manteca de karité.",
+      "price": "$520.00",
+      "category": "Skin Care",
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=500",
+        "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?auto=format&fit=crop&q=80&w=500"
+      ]
+    },
+    {
+      "id": "prod_04",
+      "name": "Mascara Pro Volumen",
+      "description": "Pestañas infinitas y con volumen extremo sin grumos. Resistente al agua.",
+      "price": "$320.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1591360236630-4eb9b35b1fbf?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_05",
+      "name": "Tónico Facial de Rosas",
+      "description": "Equilibra el pH de tu piel y refresca instantáneamente con extractos naturales.",
+      "price": "$210.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1590156221122-c748e7898b0a?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_06",
+      "name": "Protector Solar FPS 50+",
+      "description": "Protección invisible de amplio espectro. Textura ligera de rápida absorción.",
+      "price": "$580.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1556229167-da31d2394606?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_07",
+      "name": "Base Mate Larga Duración",
+      "description": "Cobertura total con acabado natural. Controla el brillo hasta por 12 horas.",
+      "price": "$410.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1631214499558-b801f21cc79e?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_08",
+      "name": "Exfoliante de Café",
+      "description": "Renueva tu piel con granos de café orgánico. Ideal para suavizar asperezas.",
+      "price": "$350.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1608248547146-bf0432367464?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_09",
+      "name": "Contorno de Ojos Hialurónico",
+      "description": "Reduce ojeras y líneas de expresión con nuestra fórmula ultra hidratante.",
+      "price": "$390.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_10",
+      "name": "Rubor en Crema Durazno",
+      "description": "Aporta un toque de color saludable y luminoso a tus mejillas de forma natural.",
+      "price": "$240.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_11",
+      "name": "Aceite Limpiador Facial",
+      "description": "Disuelve el maquillaje más pesado mientras nutre tu piel con aceites esenciales.",
+      "price": "$430.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_12",
+      "name": "Delineador Negro Intenso",
+      "description": "Punta de precisión para trazos perfectos. Secado rápido y larga duración.",
+      "price": "$190.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_13",
+      "name": "Mascarilla Arcilla Rosa",
+      "description": "Desintoxica y purifica tus poros. Piel más suave y limpia en 15 minutos.",
+      "price": "$310.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1596462502278-27bfdc4033c8?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_14",
+      "name": "Iluminador Líquido Gold",
+      "description": "Brillo espectacular que se funde con tu piel. Perfecto para rostro y cuerpo.",
+      "price": "$360.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_15",
+      "name": "Crema de Noche Nocturna",
+      "description": "Repara y regenera tu piel mientras duermes con péptidos activos.",
+      "price": "$620.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_16",
+      "name": "Corrector Alta Cobertura",
+      "description": "Cubre imperfecciones y ojeras sin marcar líneas de expresión.",
+      "price": "$290.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1617319034895-5b92131905d4?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_17",
+      "name": "Bálsamo Labial Coco",
+      "description": "Hidratación intensa con un aroma tropical delicioso. Protege del frío.",
+      "price": "$120.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1621607512214-68297480165e?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_18",
+      "name": "Fijador de Maquillaje Glow",
+      "description": "Mantiene tu maquillaje intacto por horas con un acabado radiante.",
+      "price": "$340.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1596462502278-27bfdc4033c8?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_19",
+      "name": "Sérum Vitamina E",
+      "description": "Antioxidante natural que protege tu piel del daño ambiental.",
+      "price": "$480.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_20",
+      "name": "Bronceador Compacto Sol",
+      "description": "Logra un look bronceado de vacaciones durante todo el año.",
+      "price": "$380.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_21",
+      "name": "Agua Micelar Suave",
+      "description": "Limpia y desmaquilla en un solo paso. Sin necesidad de enjuague.",
+      "price": "$220.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_22",
+      "name": "Primer Piel Perfecta",
+      "description": "Suaviza la textura de la piel y minimiza poros antes del maquillaje.",
+      "price": "$370.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1631214499558-b801f21cc79e?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_23",
+      "name": "Crema de Manos Almendras",
+      "description": "Absorción ultra rápida. Manos suaves y nutridas sin sensación grasa.",
+      "price": "$150.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1601049541289-9b1b7abcfe19?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_24",
+      "name": "Gel de Cejas Transparente",
+      "description": "Define y mantiene tus cejas en su lugar durante todo el día.",
+      "price": "$180.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_25",
+      "name": "Loción Corporal Sedosa",
+      "description": "Hidratación de 24 horas con un aroma delicado a vainilla.",
+      "price": "$290.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_26",
+      "name": "Paleta Sombras Nude",
+      "description": "12 tonos versátiles para looks de día y de noche. Alta pigmentación.",
+      "price": "$550.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_27",
+      "name": "Aceite Argán Cabello",
+      "description": "Repara puntas abiertas y aporta un brillo increíble a tu melena.",
+      "price": "$420.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=800"]
+    },
+    {
+      "id": "prod_28",
+      "name": "Desmaquillante Bifásico",
+      "description": "Remueve hasta la máscara de pestañas a prueba de agua con suavidad.",
+      "price": "$260.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1590156221122-c748e7898b0a?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_29",
+      "name": "Mascarilla Carbón",
+      "description": "Absorbe impurezas y exceso de grasa. Especial para pieles mixtas.",
+      "price": "$330.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1596462502278-27bfdc4033c8?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_30",
+      "name": "BB Cream Hidratante",
+      "description": "Unifica el tono mientras cuida tu piel. Con protección solar ligera.",
+      "price": "$380.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1631214499558-b801f21cc79e?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_31",
+      "name": "Crema Pies Refrescante",
+      "description": "Con menta y eucalipto para pies cansados. Hidratación profunda.",
+      "price": "$170.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1601049541289-9b1b7abcfe19?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_32",
+      "name": "Delineador Labios Nude",
+      "description": "Define tus labios con precisión. Textura cremosa de larga duración.",
+      "price": "$140.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_33",
+      "name": "Bruma Facial Lavanda",
+      "description": "Calma tu piel y tus sentidos. Ideal para usar antes de dormir.",
+      "price": "$230.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1590156221122-c748e7898b0a?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_34",
+      "name": "Aceite Corporal Brillo",
+      "description": "Acentúa tu bronceado con un sutil destello dorado.",
+      "price": "$460.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_35",
+      "name": "Sérum Retinol Noche",
+      "description": "Renueva la textura de tu piel y combate signos de la edad.",
+      "price": "$690.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_36",
+      "name": "Polvo Matificante",
+      "description": "Elimina el brillo no deseado sin acartonar el rostro.",
+      "price": "$290.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_37",
+      "name": "Aceite Cutículas Frutal",
+      "description": "Mantiene tus manos impecables hidratando tus cutículas.",
+      "price": "$110.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1601049541289-9b1b7abcfe19?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_38",
+      "name": "Crema Reafirmante Cuello",
+      "description": "Específicamente formulada para la zona delicada del cuello y escote.",
+      "price": "$540.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_39",
+      "name": "Sombras Metálicas",
+      "description": "Brillo intenso y larga duración para una mirada impactante.",
+      "price": "$250.00",
+      "category": "Maquillaje",
+      "images": ["https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&q=80&w=500"]
+    },
+    {
+      "id": "prod_40",
+      "name": "Agua Termal Calmante",
+      "description": "Alivia irritaciones y refresca tu rostro en cualquier momento.",
+      "price": "$280.00",
+      "category": "Skin Care",
+      "images": ["https://images.unsplash.com/photo-1590156221122-c748e7898b0a?auto=format&fit=crop&q=80&w=500"]
+    }
+  ]
+}
